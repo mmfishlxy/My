@@ -1,0 +1,32 @@
+ul{
+	width:300px;
+	margin:0 auto;
+	/*border:1px #000 solid;*/
+	padding:0;
+	/*margin-bottom: 20px;*/
+}
+ul li{
+	margin-left: 50px;
+	list-style: none;
+	height:30px;
+	line-height: 30px;
+	/*background-color: pink;*/
+}
+ul li.title_li{
+	margin-left: 0px;
+}
+ul li a{
+	color:black;
+	text-decoration:none;    /*去下划线*/
+}
+p{
+	width:300px;
+	height:30px;
+	margin:0 auto;
+	border:1px #000 solid;
+}
+span{
+	margin-right: 10px;
+	cursor:pointer;
+	line-height: 30px;
+}

@@ -1,0 +1,13 @@
+table{
+	width:600px;
+	margin:0 auto;
+}
+td{
+	height:40px;
+}
+a{
+	cursor:pointer;
+}
+tr td:nth-last-of-type(1){
+	text-align: center;
+}

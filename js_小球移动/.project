@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>js_（正则）给字符串加千分符</name>
+	<name>js_小球移动</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1525230585295</id>
+			<id>1525683780233</id>
 			<name></name>
 			<type>26</type>
 			<matcher>

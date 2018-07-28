@@ -1,0 +1,8 @@
+var data = [{},{},{},{}]; 
+//写四个数据，里面包含id，username，sex和操作，并把它们动态添加到table里
+要求：用DOM操作，隔行变色（白色灰色），操作为删除一行（删除后仍然隔行变色）
+如：var data = [
+{'id':1,'username':'小一','sex':'男'},
+{'id':2,'username':'小二','sex':'女'},
+{'id':3,'username':'小三','sex':'男'},
+{'id':4,'username':'小四','sex':'女'}]; 

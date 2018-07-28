@@ -1,0 +1,10 @@
+table{
+	width:720px;
+	height:450px;
+	border-collapse: collapse; /*合并边框*/
+	border:1px solid;
+}
+table td{
+	border:1px #000 solid;
+	text-align: center;
+}
